@@ -1,7 +1,7 @@
 {
   "name": "vue_demo",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js project 2019-01-02",
   "author": "",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "element-ui": "^2.4.6",
-    "vue": "^2.5.2",
+    "vue": "^2.6.2",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
